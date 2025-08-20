@@ -393,7 +393,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8,9|☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey #3'
+- name: 8,9| 𝗝𝗼𝗶𝗻 ➠ @Viturey
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
