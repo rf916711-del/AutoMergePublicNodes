@@ -15,7 +15,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|美国
+- name: 8|🇸🇬SG
   password: KYIFgW1don6L8TaDBJHynafxZ0
   port: 4763
   server: 47.237.23.83
@@ -53,6 +53,14 @@ proxies:
   server: 108.181.5.130
   skip-cert-verify: true
   sni: apple.com
+  tls: false
+  type: hysteria2
+- name: '8|US #1'
+  password: peEduuHzbExjK7UQHzazXwqgA
+  port: 27704
+  server: 166.88.164.9
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: 9|美国10 付费推荐：https://dafei.de
