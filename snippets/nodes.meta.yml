@@ -86,7 +86,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8,9|🇩🇪@FreakConfig
+- name: 8,9|🇪@FreakConfig
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -214,7 +214,7 @@ proxies:
   sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: 8,9|ان های ی د نل ترا💎 Config_Raye...
+- name: 8,9|کان های ی د نل ترا💎 Config_Ray...
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -285,7 +285,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@FreakConfig #1'
+- name: '8,9|@FreakConfig #2'
   password: RzQrEkAmnGs86IhmSVUk9Q5cn9M
   port: 30308
   server: 47.236.104.81
@@ -387,7 +387,7 @@ proxies:
   sni: us2.1010991.xyz
   tls: false
   type: hysteria2
-- name: 8,9|@Selinc
+- name: 8,9|🇺🇲@FreakConfig
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -403,7 +403,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8,9|@FreakConfig #3'
+- name: 8,9|🇨🇵@FreakConfig
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -546,6 +546,14 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
+- name: 9|@FreakConfig
+  password: 55ca7a9e-cf90-49df-b14a-9346c59b73b9
+  port: 58718
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: '9|@V2rayNG3 #3'
   password: 75577117-ABCD-DCBA-AAAA-CC777775577B
   port: 7777
@@ -554,7 +562,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|@FreakConfig
+- name: '9|🇩🇪@FreakConfig #1'
+  password: 88984417-da74-4a6e-a6fe-9336adf8e644
+  port: 20340
+  server: 77.90.50.59
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '9|@FreakConfig #1'
   password: 8b583292-c936-4723-a8c7-8adb8ecf5044
   port: 22154
   server: hsxjp.huasuan666.top
