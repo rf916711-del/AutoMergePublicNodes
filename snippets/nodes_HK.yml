@@ -2,7 +2,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 11,12|香港|@ripaojiedian
+  name: 10,11|香港|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -18,33 +18,33 @@ proxies:
     path: /oooo
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港2|@ripaojiedian
-  password: 9bfdde71b4c0
+  name: 10|🇭🇰 香港2|@ripaojiedian
+  password: 9969db7a2f51
   plugin: v2ray-plugin
   plugin-opts:
-    host: newroot2v1.dsjsapp.com
+    host: hk6v1.dsjsapp.com
     mode: websocket
     mux: true
-    path: /cauejypbltqt
+    path: /fgsauuoqxwx
     skip-cert-verify: false
     tls: true
-  port: 636
-  server: 103.103.245.158
+  port: 443
+  server: 156.251.179.135
   tfo: false
   type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11|🇭🇰 香港3|@ripaojiedian
-  port: 27549
-  server: 103.224.80.26
+  name: 10|🇭🇰 香港3|@ripaojiedian
+  port: 51571
+  server: 38.147.188.96
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  uuid: 907a372b-b6b8-41df-9d56-a244b4e1a320
+  uuid: 740ec514-d2bd-45bb-b410-7ea5a05cdd87
 - client-fingerprint: chrome
-  name: 11,12|香港4|@ripaojiedian
+  name: 10,11|香港4|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 6928
@@ -53,7 +53,7 @@ proxies:
   sni: www.baidu.com
   type: trojan
 - client-fingerprint: chrome
-  name: 11,12|香港6|@ripaojiedian
+  name: 10,11|香港6|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 1546
@@ -63,17 +63,17 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 12|香港3|@ripaojiedian
+  name: 11|香港3|@ripaojiedian
   network: tcp
-  port: '27549'
-  server: 103.224.80.26
+  port: '51571'
+  server: 38.147.188.96
   servername: ''
   tls: false
   type: vmess
-  uuid: 907a372b-b6b8-41df-9d56-a244b4e1a320
+  uuid: 740ec514-d2bd-45bb-b410-7ea5a05cdd87
 - alterId: 0
   cipher: auto
-  name: 12|香港v2|@ripaojiedian
+  name: 11|香港v2|@ripaojiedian
   network: kcp
   port: '28590'
   server: 47.239.183.87
