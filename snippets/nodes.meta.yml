@@ -459,14 +459,6 @@ proxies:
   sni: gb.gomeow.online
   tls: false
   type: hysteria2
-- name: 9| @Hddify
-  password: 1fdb6b30-5371-4ff8-a001-efdc4b43d79b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: '9|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
@@ -528,14 +520,6 @@ proxies:
   port: 22154
   server: hsxjp.huasuan666.top
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 9|→ @Hddify
-  password: 942b9cb8-92fa-46ac-ae91-f69c8234434b
-  port: 43429
-  server: 185.126.255.78
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: '9|@V2rayNG3 #4'
