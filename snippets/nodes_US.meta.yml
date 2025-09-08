@@ -1,5 +1,5 @@
 proxies:
-- name: '9,10|@FreakConfig #2'
+- name: 9,10|🇺@FreakConfig
   password: miaoge110
   port: 12687
   server: 45.58.38.153
